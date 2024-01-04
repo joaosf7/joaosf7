@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm João Flor</h1>
+<h1 align="center">Hi 👋, I'm João</h1>
 <h3 align="center">Coffee driven fullstack developer</h3>
 
 <h3 align="left">Connect with me:</h3>
